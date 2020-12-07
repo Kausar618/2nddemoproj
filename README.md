@@ -1,4 +1,4 @@
 # 2nddemoproj
 
-##Second heading
+##Second heading.
 This is my second demo project
